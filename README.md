@@ -1,11 +1,3 @@
 # UDP 通信 Web ⇔ Python
 
-```shell
-python server.py
-```
-
-```shell
-cd client
-yarn
-yarn dev
-```
+ゲーム通信で早いと噂の UDP を試してみる。何を作るかは不明。
